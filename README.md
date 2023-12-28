@@ -1,4 +1,4 @@
-# Module 04 Mini-Project: Word Guess
+# 04 Mini-Project: Word Guess
 
 ## Instructed Notes
 
